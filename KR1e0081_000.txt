@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋輯傳
-#+DATE: 2015-09-23 09:40:15
-#+PROPERTY: JUAN 0
+#+DATE: 2015-08-24 22:15:59.002333
+#+PROPERTY: ID KR1e0081
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 提要
 <pb:KR1e0081_WYG_000-1a>¶
 欽定四庫全書　　　　　經部五¶
 　春秋輯傳　　　　　　　春秋類¶
@@ -25,6 +27,7 @@
 　　　　九月恭校上¶
 　　　　　　　總纂官(臣/)紀昀(臣/)陸錫熊臣孫士毅¶
 　　　　　　　　　　總　校　官(臣/)陸　費　墀¶
+#+PROPERTY: JUAN 春秋宗旨
 <pb:KR1e0081_WYG_000-3a>¶
 欽定四庫全書¶
 　春秋宗㫖¶
@@ -709,4 +712,3 @@
 　¶
 　¶
 　春秋宗㫖¶
-
